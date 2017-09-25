@@ -1,0 +1,20 @@
+.italics {
+	font-style: italic;
+			}
+body {
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 11px;
+	font-style: Times;
+}
+
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+}
+
+ol {padding-bottom: 40px;}
+
+.margin {
+	margin-bottom: 1em;
+}
