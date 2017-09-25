@@ -1,13 +1,16 @@
-.italics {
-	font-style: italic;
-			}
 body {
-	padding-left: 100px;
-	padding-right: 100px;
-	font-size: 11px;
-	font-style: Times;
+	margin: 0;
+	padding: 12px;
 }
 
+.italics {
+	font-style: italic;
+}
+
+.container {
+	max-width: 768px;
+	margin: 0 auto;
+}
 
 h1, h2, h3, h4, h5 {
 	margin: 0;
@@ -16,5 +19,5 @@ h1, h2, h3, h4, h5 {
 ol {padding-bottom: 40px;}
 
 .margin {
-	margin-bottom: 1em;
+	margin-bottom: 12px;
 }
